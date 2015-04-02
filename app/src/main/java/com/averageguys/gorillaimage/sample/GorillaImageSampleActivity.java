@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.averageguys.gorillaimage.CircleCropImageView;
-import com.averageguys.gorillaimage.ImageHelper;
+import com.averageguys.gorillaimage.image.ImageHelper;
 import com.averageguys.gorillaimage.R;
 import com.averageguys.gorillaimage.utils.GlobalValues;
 

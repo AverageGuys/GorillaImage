@@ -6,4 +6,8 @@
     <string name="txt_about_details">Sample app to demonstrate GorillaImage.
         \n\nSource available at <a href="https://github.com/AverageGuys/GorillaImage">GitHub</a>.
     </string>
+
+    <string name="btn_txt_new_image_camera">Camera</string>
+    <string name="btn_txt_new_image_gallery">Gallery</string>
+    <string name="btn_txt_new_image_cancel">Cancel</string>
 </resources>
