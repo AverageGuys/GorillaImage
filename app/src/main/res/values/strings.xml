@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gorilla Image</string>
+    <string name="action_about">About</string>
+
+    <string name="txt_about">About</string>
+    <string name="txt_about_details">Sample app to demonstrate GorillaImage.
+        \n\nSource available at <a href="https://github.com/AverageGuys/GorillaImage">GitHub</a>.
+    </string>
+</resources>
